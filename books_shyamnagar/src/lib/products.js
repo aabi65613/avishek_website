@@ -6,9 +6,9 @@ export const products = [
   // Skincare Category
   {
     id: "skincare001",
-    name: " red tape",
+    name: "Hydrating Face Cream",
     price: 29.99,
-    description: " costtape.",
+    description: "A light yet deeply hydrating face cream suitable for all skin types. Enriched with natural extracts.",
     category: "Skincare",
     image: "/images/products/skincare1.jpg", // Replace with actual image path
   },
@@ -86,9 +86,9 @@ export const products = [
   // Experimental Items Category
   {
     id: "exp001",
-    name: "nevia",
+    name: "DIY Terrarium Kit",
     price: 35.00,
-    description: "for soft skin",
+    description: "Build your own miniature ecosystem in a glass container. Fun and educational.",
     category: "Experimental",
     image: "/images/products/exp1.jpg", // Replace with actual image path
   },
