@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow specific paths if needed, e.g.:
+# Disallow: /admin
+# Disallow: /private
+
+# Sitemap: Add URL to sitemap.xml once generated or available
+# Sitemap: https://yourdomain.com/sitemap.xml
